@@ -1,5 +1,5 @@
 # test_NRF24L01_connection
-Código para verificar que existe comunicación entre el Arduino (lo he probado para UNO y para NANO). Se utiliza de manera visual, se carga el programa al Arduino y se chequea en el monitor Serial. En principio debería verse algo así.
+Código para verificar que existe comunicación entre el Arduino (lo he probado para UNO y para NANO) y el transceptor. Se utiliza de manera visual, se carga el programa al Arduino y se chequea en el monitor Serial. En principio debería verse algo así.
 
 CheckConnection Starting
 
